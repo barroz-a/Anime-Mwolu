@@ -35,7 +35,7 @@ Click WA logo to Join Support Group 👇
   [![join]PublicBot Group()
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barroz-a&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barroz-a&repo=PublicBot&theme=nightowl)](https://github.com/barroz-a/PublicBot)
   </div>
     
 ## Setup
